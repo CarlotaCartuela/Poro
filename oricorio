@@ -1,0 +1,16 @@
+package org.example;
+
+public class abstract oricorio extends pokemon implements pokebattle {
+
+    public oricorio(int id, String nome){
+        super(id, nome);
+    }
+
+    @override
+    public void() {
+        System.out.println(getNome() + " executou um ataque especial :^p");
+    }
+
+
+
+}

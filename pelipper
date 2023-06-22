@@ -1,0 +1,16 @@
+package org.example;
+
+public class abstract pelipper extends pokemon implements pokebattle {
+
+    public pelipper(int id, String nome){
+        super(id, nome);
+    }
+
+    @override
+    public void() {
+        System.out.println(getNome() + " divou com sua demonstração de poder com seu poderoso ataque especial :^)");
+    }
+
+
+
+}

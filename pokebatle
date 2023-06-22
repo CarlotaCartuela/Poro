@@ -1,0 +1,8 @@
+public interface pokebattle{
+
+    abstract public String atacar;
+
+    System.out.println ( nome + " Realizou um ataque especial " + );
+
+
+}
